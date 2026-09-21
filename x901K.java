@@ -21,3 +21,5 @@ class X901K implements Printable, Showable {
         obj.show();
     }
 }
+
+// implementing multiple interfaces in 1 classes
